@@ -16,12 +16,12 @@ This repository serves as a sandbox for building, testing, and running quantum a
 
 The repository is structured as follows:
 
-├── algorithms/ # Quantum algorithms (e.g., VQE, QAOA, Grover's)
-├── circuits/ # Custom and textbook quantum circuits
-├── simulators/ # Tools and scripts for simulation backends
-├── qpu_interface/ # Scripts for connecting with actual quantum hardware
-├── utils/ # Helper functions and utilities
-└── README.md # Project documentation
+├── algorithms/ # Quantum algorithms (e.g., VQE, QAOA, Grover's)<br>
+├── circuits/ # Custom and textbook quantum circuits<br>
+├── simulators/ # Tools and scripts for simulation backends<br>
+├── qpu_interface/ # Scripts for connecting with actual quantum hardware<br>
+├── utils/ # Helper functions and utilities<br>
+└── README.md # Project documentation<br>
 
 ## Getting Started
 
