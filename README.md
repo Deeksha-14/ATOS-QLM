@@ -57,7 +57,7 @@ This repository contains templates for connecting to Quantum Processing Units (Q
 Refer to the qpu_interface/ directory for specific setup instructions and code examples.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
 
 ## Contributing
 Contributions are welcome! If you encounter bugs or have ideas for improvements, feel free to open an issue or submit a pull request.
