@@ -23,7 +23,7 @@ The repository is structured as follows:
 ├── utils/ # Helper functions and utilities
 └── README.md # Project documentation
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
